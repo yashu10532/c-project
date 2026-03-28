@@ -1,3 +1,4 @@
+
 #define size 3
 int a[size],top=-1;
 void push()
@@ -46,4 +47,3 @@ void display()
         }
     }
 }
-
